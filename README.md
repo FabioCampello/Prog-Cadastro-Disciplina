@@ -1,9 +1,9 @@
 # Prog-Cadastro-Disciplina
 Programa para cadastro de cursos e disiplinas
 
-|==============================================================================|
-|				                Desenvolvido por: Fábio Campêllo. 					           |
-|==============================================================================|
+|================================================================================|
+|				                Desenvolvido por: Fábio Campêllo. 					             |
+|================================================================================|
 |											                                                        	|
 |	É um software livre, desenvolvido para fins acadêmicos. Colocando em prática  |
 | conceitos como:                                                               |
