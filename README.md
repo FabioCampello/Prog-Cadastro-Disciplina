@@ -2,7 +2,7 @@
 Programa para cadastro de cursos e disiplinas
 
 |===============================================================================|
-|	              Desenvolvido por: Fábio Campêllo. 	                | |===============================================================================|
+	              Desenvolvido por: Fábio Campêllo. 	                 |===============================================================================|
 
 É um software livre, desenvolvido para fins acadêmicos. Colocando em prática    
 conceitos como:                                                                 
@@ -17,7 +17,7 @@ Enfim, um CRUD básico para aplicação dos conceitos inerentes de sua
 construção.                                                                     
 						                                                             				  
 |===============================================================================|
-|                     	Instrução de instalação				        |           			  
+                    	Instrução de instalação				                  			  
 |===============================================================================| 
 											                                                        	  
 Segue abaixo o código SQL para a criação do banco de dados MySQL, Copie-o e     
