@@ -29,12 +29,15 @@ aplicação
 ===============================================================================| 
 
 // Criando o banco de dados
+
 CREATE DATABASE escoladb;
 
 //Setando o banco de dados à ser manipulado
+
 use escoladb;
 
 // Criando a tabela Curso
+
 CREATE TABLE Curso (
   idCurso INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
   nomeCurso VARCHAR(200) NOT NULL,
@@ -43,6 +46,7 @@ CREATE TABLE Curso (
 );
 
 // Criando a tabela Disciplina
+
 CREATE TABLE Disciplina (
   idDisciplina INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
   nome VARCHAR(200) NOT NULL,
