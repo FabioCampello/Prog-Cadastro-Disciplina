@@ -10,7 +10,7 @@ conceitos como:
 1. Persistência no banco de dados MySQL, originalmente utilizando o             
 WampServer.                                                              			 
 
-2. A criaçaõ de aplicação desktop, na liguagem Java através da IDE Eclipse      
+2. A criação de aplicação desktop, na linguagem Java através da IDE Eclipse      
 Mars 2.                                                                         
 						                                                             				  
 Enfim, um CRUD básico para aplicação dos conceitos inerentes de sua             
